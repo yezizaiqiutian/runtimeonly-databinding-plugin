@@ -1,4 +1,5 @@
 # runtimeonly-databinding-plugin
+[![](https://jitpack.io/v/yezizaiqiutian/runtimeonly-databinding-plugin.svg)](https://jitpack.io/#yezizaiqiutian/runtimeonly-databinding-plugin)
 
 ## from:https://github.com/michaelrepo/DataBindingExtendPlugin
 
